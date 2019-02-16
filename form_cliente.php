@@ -5,7 +5,7 @@
 <fieldset>
 <legend>Inserir novo cliente</legend>
 <form method="post" action="insere_cliente.php">
-
+	<!--alterado-->
 	<input type="text" name="cpf" placeholder="Insira o cpf do Cliente..." /><br /><br />
 	<input type="text" name="nome" placeholder="Insira o nome do Cliente..." /><br /><br />
 	<input type="text" name="endereco" placeholder="Insira o endereço do Cliente..." /><br /><br />
